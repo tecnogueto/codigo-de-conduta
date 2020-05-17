@@ -52,6 +52,6 @@ Digo Ribeiro | Thaís Silva
 digo@tecnogueto.com.br | thais@tecnogueto.com.br
 (21) 96466-0801 | (21) 98331-4917
 
-_Esperemos nunca precisar desta política, mas acreditamos que ter este documento
+_Esperamos nunca precisar desta política, mas acreditamos que ter este documento
 ajuda todos a pensar um pouco mais sobre como suas ações e palavras afetam toda
 a comunidade, bem como cada um dos indivíduos na comunidade._
