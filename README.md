@@ -22,11 +22,11 @@ Os participantes que violarem estas regras podem ser repreendidos ou expulsos do
 
 Antes de postar ou interagir, **LEIA COM ATENÇÃO** todas as regras da comunidade **Tecnogueto**.
 
-1 – **RESPEITO**: Mantenha o respeito com os outros participantes. Tenha cuidado com suas mensagens. Caso algum participante haja com assédio, desrespeito ou constrangimento, o mesmo será banido sem aviso prévio.
+1 – **RESPEITO**: Mantenha o respeito com os outros participantes. Tenha cuidado com suas mensagens. Caso algum participante aja com assédio, desrespeito ou constrangimento, o mesmo será banido sem aviso prévio.
 
-2 – **CONTEÚDO**: Poste apenas mensagens que tenha, de alguma forma, relação com o assunto abordado pela comunidade. Tenha clareza e objetividade no conteúdo do seu post. Conteúdos fora do contexto serão excluídos sem aviso prévio. Caso haja persistência do participante em esse tipo de postagem o mesmo será banido sem aviso prévio. Exemplos de conteúdo aceitos: Dúvidas técnicas, dúvidas sobre mercado de trabalho de desenvolvimento, Dicas para desenvolvedores, Eventos de tecnologia, Meetups/Eventos de Tecnologias e ou que de alguma forma tenha a ver com a comunidade(Software Livre, Startup, Empreendedorismo).
+2 – **CONTEÚDO**: Poste apenas mensagens que tenham, de alguma forma, relação com o assunto abordado pela comunidade. Tenha clareza e objetividade no conteúdo do seu post. Conteúdos fora do contexto serão excluídos sem aviso prévio. Caso aja persistência do participante em esse tipo de postagem o mesmo será banido sem aviso prévio. Exemplos de conteúdo aceitos: Dúvidas técnicas, dúvidas sobre mercado de trabalho de desenvolvimento, Dicas para desenvolvedores, Eventos de tecnologia, Meetups/Eventos de Tecnologias e ou que de alguma forma tenha a ver com a comunidade(Software Livre, Startup, Empreendedorismo).
 
-3 – **ANÚNCIOS E LINKS**: Não serão permitidos anúncios de compra e venda de produtos. Caso haja insistência o participante será banido sem aviso prévio.
+3 – **ANÚNCIOS E LINKS**: Não serão permitidos anúncios de compra e venda de produtos. Caso aja insistência o participante será banido sem aviso prévio.
 
 4 – **CÓDIGO**: Caso queira realizar um post contendo códigos, coloque em algum site de códigos para demonstrá-los. Algum sites mais conhecidos são: , CodePen(http://codepen.io/pen/), JSBin(http://jsbin.com/), JSFiddle(http://jsfiddle.net/) ou o Github(https://github.com/).
 
