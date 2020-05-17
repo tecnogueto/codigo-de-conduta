@@ -49,7 +49,7 @@ Contatos Tecnogueto:
 
 Digo Ribeiro | Thaís Silva
 :---: | :---:
-digo[at]tecnogueto.com.br | thais[at]tecnogueto.com.br
+digo@tecnogueto.com.br | thais@tecnogueto.com.br
 (21) 96466-0801 | (21) 98331-4917
 
 _Esperemos nunca precisar desta política, mas acreditamos que ter este documento
