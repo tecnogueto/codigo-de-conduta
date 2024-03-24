@@ -48,10 +48,10 @@ Se você se sentiu assediado, discriminado indevidamente ou humilhado, ou presen
 
 Contatos Tecnogueto:
 
-Digo Ribeiro | Thaís Silva
-:---: | :---:
-digo@tecnogueto.com.br | thais@tecnogueto.com.br
-(21) 96466-0801 | (21) 98331-4917
+Digo Ribeiro
+:---:
+digo.ribeiro@tecnogueto.com.br
+(21) 96466-0801
 
 _Esperamos nunca precisar desta política, mas acreditamos que ter este documento
 ajuda todos a pensar um pouco mais sobre como suas ações e palavras afetam toda
